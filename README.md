@@ -11,3 +11,5 @@ This repository contains code and experiments for cross-domain fake news detecti
 🏛 Politics (D)
 
 The primary goal is to improve fake news detection accuracy when training on one domain and testing on another using domain adaptation techniques.
+
+Dataset: https://drive.google.com/drive/folders/1B5jOzZWuHzm9nTAY7xegMjAWUK7YlbrA?usp=sharing
